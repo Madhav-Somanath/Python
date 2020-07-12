@@ -16,8 +16,10 @@
   * [All Subsequences](https://github.com/TheAlgorithms/Python/blob/master/backtracking/all_subsequences.py)
   * [Coloring](https://github.com/TheAlgorithms/Python/blob/master/backtracking/coloring.py)
   * [Hamiltonian Cycle](https://github.com/TheAlgorithms/Python/blob/master/backtracking/hamiltonian_cycle.py)
+  * [Knight Tour](https://github.com/TheAlgorithms/Python/blob/master/backtracking/knight_tour.py)
   * [Minimax](https://github.com/TheAlgorithms/Python/blob/master/backtracking/minimax.py)
   * [N Queens](https://github.com/TheAlgorithms/Python/blob/master/backtracking/n_queens.py)
+  * [Rat In Maze](https://github.com/TheAlgorithms/Python/blob/master/backtracking/rat_in_maze.py)
   * [Sudoku](https://github.com/TheAlgorithms/Python/blob/master/backtracking/sudoku.py)
   * [Sum Of Subsets](https://github.com/TheAlgorithms/Python/blob/master/backtracking/sum_of_subsets.py)
 
@@ -70,9 +72,15 @@
 ## Compression
   * [Burrows Wheeler](https://github.com/TheAlgorithms/Python/blob/master/compression/burrows_wheeler.py)
   * [Huffman](https://github.com/TheAlgorithms/Python/blob/master/compression/huffman.py)
+  * [Lempel Ziv](https://github.com/TheAlgorithms/Python/blob/master/compression/lempel_ziv.py)
+  * [Lempel Ziv Decompress](https://github.com/TheAlgorithms/Python/blob/master/compression/lempel_ziv_decompress.py)
   * [Peak Signal To Noise Ratio](https://github.com/TheAlgorithms/Python/blob/master/compression/peak_signal_to_noise_ratio.py)
 
+## Computer Vision
+  * [Harriscorner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harriscorner.py)
+
 ## Conversions
+  * [Decimal To Any](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_any.py)
   * [Decimal To Binary](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_binary.py)
   * [Decimal To Hexadecimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_hexadecimal.py)
   * [Decimal To Octal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_octal.py)
@@ -142,6 +150,7 @@
     * [Trie](https://github.com/TheAlgorithms/Python/blob/master/data_structures/trie/trie.py)
 
 ## Digital Image Processing
+  * [Change Brightness](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/change_brightness.py)
   * [Change Contrast](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/change_contrast.py)
   * [Convert To Negative](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/convert_to_negative.py)
   * Dithering
@@ -193,8 +202,10 @@
   * [Longest Increasing Subsequence O(Nlogn)](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/longest_increasing_subsequence_o(nlogn).py)
   * [Longest Sub Array](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/longest_sub_array.py)
   * [Matrix Chain Order](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/matrix_chain_order.py)
+  * [Max Non Adjacent Sum](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_non_adjacent_sum.py)
   * [Max Sub Array](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_sub_array.py)
   * [Max Sum Contiguous Subsequence](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_sum_contiguous_subsequence.py)
+  * [Minimum Cost Path](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_cost_path.py)
   * [Minimum Partition](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_partition.py)
   * [Optimal Binary Search Tree](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/optimal_binary_search_tree.py)
   * [Rod Cutting](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/rod_cutting.py)
@@ -220,13 +231,15 @@
   * [Articulation Points](https://github.com/TheAlgorithms/Python/blob/master/graphs/articulation_points.py)
   * [Basic Graphs](https://github.com/TheAlgorithms/Python/blob/master/graphs/basic_graphs.py)
   * [Bellman Ford](https://github.com/TheAlgorithms/Python/blob/master/graphs/bellman_ford.py)
-  * [Bfs](https://github.com/TheAlgorithms/Python/blob/master/graphs/bfs.py)
   * [Bfs Shortest Path](https://github.com/TheAlgorithms/Python/blob/master/graphs/bfs_shortest_path.py)
   * [Bidirectional A Star](https://github.com/TheAlgorithms/Python/blob/master/graphs/bidirectional_a_star.py)
+  * [Bidirectional Breadth First Search](https://github.com/TheAlgorithms/Python/blob/master/graphs/bidirectional_breadth_first_search.py)
   * [Breadth First Search](https://github.com/TheAlgorithms/Python/blob/master/graphs/breadth_first_search.py)
+  * [Breadth First Search 2](https://github.com/TheAlgorithms/Python/blob/master/graphs/breadth_first_search_2.py)
   * [Breadth First Search Shortest Path](https://github.com/TheAlgorithms/Python/blob/master/graphs/breadth_first_search_shortest_path.py)
   * [Check Bipartite Graph Bfs](https://github.com/TheAlgorithms/Python/blob/master/graphs/check_bipartite_graph_bfs.py)
   * [Check Bipartite Graph Dfs](https://github.com/TheAlgorithms/Python/blob/master/graphs/check_bipartite_graph_dfs.py)
+  * [Connected Components](https://github.com/TheAlgorithms/Python/blob/master/graphs/connected_components.py)
   * [Depth First Search](https://github.com/TheAlgorithms/Python/blob/master/graphs/depth_first_search.py)
   * [Depth First Search 2](https://github.com/TheAlgorithms/Python/blob/master/graphs/depth_first_search_2.py)
   * [Dijkstra](https://github.com/TheAlgorithms/Python/blob/master/graphs/dijkstra.py)
@@ -240,25 +253,35 @@
   * [Finding Bridges](https://github.com/TheAlgorithms/Python/blob/master/graphs/finding_bridges.py)
   * [Frequent Pattern Graph Miner](https://github.com/TheAlgorithms/Python/blob/master/graphs/frequent_pattern_graph_miner.py)
   * [G Topological Sort](https://github.com/TheAlgorithms/Python/blob/master/graphs/g_topological_sort.py)
+  * [Gale Shapley Bigraph](https://github.com/TheAlgorithms/Python/blob/master/graphs/gale_shapley_bigraph.py)
   * [Graph List](https://github.com/TheAlgorithms/Python/blob/master/graphs/graph_list.py)
   * [Graph Matrix](https://github.com/TheAlgorithms/Python/blob/master/graphs/graph_matrix.py)
   * [Graphs Floyd Warshall](https://github.com/TheAlgorithms/Python/blob/master/graphs/graphs_floyd_warshall.py)
   * [Greedy Best First](https://github.com/TheAlgorithms/Python/blob/master/graphs/greedy_best_first.py)
   * [Kahns Algorithm Long](https://github.com/TheAlgorithms/Python/blob/master/graphs/kahns_algorithm_long.py)
   * [Kahns Algorithm Topo](https://github.com/TheAlgorithms/Python/blob/master/graphs/kahns_algorithm_topo.py)
+  * [Minimum Spanning Tree Boruvka](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_boruvka.py)
   * [Minimum Spanning Tree Kruskal](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_kruskal.py)
   * [Minimum Spanning Tree Prims](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_prims.py)
   * [Multi Heuristic Astar](https://github.com/TheAlgorithms/Python/blob/master/graphs/multi_heuristic_astar.py)
   * [Page Rank](https://github.com/TheAlgorithms/Python/blob/master/graphs/page_rank.py)
   * [Prim](https://github.com/TheAlgorithms/Python/blob/master/graphs/prim.py)
   * [Scc Kosaraju](https://github.com/TheAlgorithms/Python/blob/master/graphs/scc_kosaraju.py)
+  * [Strongly Connected Components](https://github.com/TheAlgorithms/Python/blob/master/graphs/strongly_connected_components.py)
   * [Tarjans Scc](https://github.com/TheAlgorithms/Python/blob/master/graphs/tarjans_scc.py)
 
+## Greedy Method
+  * [Greedy Knapsack](https://github.com/TheAlgorithms/Python/blob/master/greedy_method/greedy_knapsack.py)
+  * [Test Knapsack](https://github.com/TheAlgorithms/Python/blob/master/greedy_method/test_knapsack.py)
+
 ## Hashes
+  * [Adler32](https://github.com/TheAlgorithms/Python/blob/master/hashes/adler32.py)
   * [Chaos Machine](https://github.com/TheAlgorithms/Python/blob/master/hashes/chaos_machine.py)
+  * [Djb2](https://github.com/TheAlgorithms/Python/blob/master/hashes/djb2.py)
   * [Enigma Machine](https://github.com/TheAlgorithms/Python/blob/master/hashes/enigma_machine.py)
   * [Hamming Code](https://github.com/TheAlgorithms/Python/blob/master/hashes/hamming_code.py)
   * [Md5](https://github.com/TheAlgorithms/Python/blob/master/hashes/md5.py)
+  * [Sdbm](https://github.com/TheAlgorithms/Python/blob/master/hashes/sdbm.py)
   * [Sha1](https://github.com/TheAlgorithms/Python/blob/master/hashes/sha1.py)
 
 ## Linear Algebra
@@ -288,6 +311,7 @@
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
+  * [Word Frequency Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/word_frequency_functions.py)
 
 ## Maths
   * [3N Plus 1](https://github.com/TheAlgorithms/Python/blob/master/maths/3n_plus_1.py)
@@ -313,6 +337,7 @@
   * [Chudnovsky Algorithm](https://github.com/TheAlgorithms/Python/blob/master/maths/chudnovsky_algorithm.py)
   * [Collatz Sequence](https://github.com/TheAlgorithms/Python/blob/master/maths/collatz_sequence.py)
   * [Combinations](https://github.com/TheAlgorithms/Python/blob/master/maths/combinations.py)
+  * [Entropy](https://github.com/TheAlgorithms/Python/blob/master/maths/entropy.py)
   * [Eulers Totient](https://github.com/TheAlgorithms/Python/blob/master/maths/eulers_totient.py)
   * [Explicit Euler](https://github.com/TheAlgorithms/Python/blob/master/maths/explicit_euler.py)
   * [Extended Euclidean Algorithm](https://github.com/TheAlgorithms/Python/blob/master/maths/extended_euclidean_algorithm.py)
@@ -349,7 +374,9 @@
   * [Monte Carlo](https://github.com/TheAlgorithms/Python/blob/master/maths/monte_carlo.py)
   * [Monte Carlo Dice](https://github.com/TheAlgorithms/Python/blob/master/maths/monte_carlo_dice.py)
   * [Newton Raphson](https://github.com/TheAlgorithms/Python/blob/master/maths/newton_raphson.py)
+  * [Number Of Digits](https://github.com/TheAlgorithms/Python/blob/master/maths/number_of_digits.py)
   * [Numerical Integration](https://github.com/TheAlgorithms/Python/blob/master/maths/numerical_integration.py)
+  * [Perfect Cube](https://github.com/TheAlgorithms/Python/blob/master/maths/perfect_cube.py)
   * [Perfect Square](https://github.com/TheAlgorithms/Python/blob/master/maths/perfect_square.py)
   * [Pi Monte Carlo Estimation](https://github.com/TheAlgorithms/Python/blob/master/maths/pi_monte_carlo_estimation.py)
   * [Polynomial Evaluation](https://github.com/TheAlgorithms/Python/blob/master/maths/polynomial_evaluation.py)
@@ -374,12 +401,14 @@
   * [Softmax](https://github.com/TheAlgorithms/Python/blob/master/maths/softmax.py)
   * [Square Root](https://github.com/TheAlgorithms/Python/blob/master/maths/square_root.py)
   * [Sum Of Arithmetic Series](https://github.com/TheAlgorithms/Python/blob/master/maths/sum_of_arithmetic_series.py)
+  * [Sum Of Digits](https://github.com/TheAlgorithms/Python/blob/master/maths/sum_of_digits.py)
   * [Test Prime Check](https://github.com/TheAlgorithms/Python/blob/master/maths/test_prime_check.py)
   * [Trapezoidal Rule](https://github.com/TheAlgorithms/Python/blob/master/maths/trapezoidal_rule.py)
   * [Volume](https://github.com/TheAlgorithms/Python/blob/master/maths/volume.py)
   * [Zellers Congruence](https://github.com/TheAlgorithms/Python/blob/master/maths/zellers_congruence.py)
 
 ## Matrix
+  * [Count Islands In Matrix](https://github.com/TheAlgorithms/Python/blob/master/matrix/count_islands_in_matrix.py)
   * [Matrix Class](https://github.com/TheAlgorithms/Python/blob/master/matrix/matrix_class.py)
   * [Matrix Operation](https://github.com/TheAlgorithms/Python/blob/master/matrix/matrix_operation.py)
   * [Nth Fibonacci Using Matrix Exponentiation](https://github.com/TheAlgorithms/Python/blob/master/matrix/nth_fibonacci_using_matrix_exponentiation.py)
@@ -416,8 +445,11 @@
   * [Integeration By Simpson Approx](https://github.com/TheAlgorithms/Python/blob/master/other/integeration_by_simpson_approx.py)
   * [Largest Subarray Sum](https://github.com/TheAlgorithms/Python/blob/master/other/largest_subarray_sum.py)
   * [Least Recently Used](https://github.com/TheAlgorithms/Python/blob/master/other/least_recently_used.py)
+  * [Lfu Cache](https://github.com/TheAlgorithms/Python/blob/master/other/lfu_cache.py)
   * [Linear Congruential Generator](https://github.com/TheAlgorithms/Python/blob/master/other/linear_congruential_generator.py)
+  * [Lru Cache](https://github.com/TheAlgorithms/Python/blob/master/other/lru_cache.py)
   * [Magicdiamondpattern](https://github.com/TheAlgorithms/Python/blob/master/other/magicdiamondpattern.py)
+  * [Markov Chain](https://github.com/TheAlgorithms/Python/blob/master/other/markov_chain.py)
   * [Nested Brackets](https://github.com/TheAlgorithms/Python/blob/master/other/nested_brackets.py)
   * [Palindrome](https://github.com/TheAlgorithms/Python/blob/master/other/palindrome.py)
   * [Password Generator](https://github.com/TheAlgorithms/Python/blob/master/other/password_generator.py)
@@ -539,6 +571,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_40/sol1.py)
   * Problem 42
     * [Solution42](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_42/solution42.py)
+  * Problem 47
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_47/sol1.py)
   * Problem 48
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_48/sol1.py)
   * Problem 52
@@ -558,10 +592,12 @@
 
 ## Scheduling
   * [First Come First Served](https://github.com/TheAlgorithms/Python/blob/master/scheduling/first_come_first_served.py)
-  * [Shortest Job First Algorithm](https://github.com/TheAlgorithms/Python/blob/master/scheduling/shortest_job_first_algorithm.py)
+  * [Round Robin](https://github.com/TheAlgorithms/Python/blob/master/scheduling/round_robin.py)
+  * [Shortest Job First](https://github.com/TheAlgorithms/Python/blob/master/scheduling/shortest_job_first.py)
 
 ## Searches
   * [Binary Search](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
+  * [Double Linear Search](https://github.com/TheAlgorithms/Python/blob/master/searches/double_linear_search.py)
   * [Fibonacci Search](https://github.com/TheAlgorithms/Python/blob/master/searches/fibonacci_search.py)
   * [Hill Climbing](https://github.com/TheAlgorithms/Python/blob/master/searches/hill_climbing.py)
   * [Interpolation Search](https://github.com/TheAlgorithms/Python/blob/master/searches/interpolation_search.py)
@@ -621,18 +657,21 @@
   * [Boyer Moore Search](https://github.com/TheAlgorithms/Python/blob/master/strings/boyer_moore_search.py)
   * [Check Pangram](https://github.com/TheAlgorithms/Python/blob/master/strings/check_pangram.py)
   * [Is Palindrome](https://github.com/TheAlgorithms/Python/blob/master/strings/is_palindrome.py)
+  * [Jaro Winkler](https://github.com/TheAlgorithms/Python/blob/master/strings/jaro_winkler.py)
   * [Knuth Morris Pratt](https://github.com/TheAlgorithms/Python/blob/master/strings/knuth_morris_pratt.py)
   * [Levenshtein Distance](https://github.com/TheAlgorithms/Python/blob/master/strings/levenshtein_distance.py)
   * [Lower](https://github.com/TheAlgorithms/Python/blob/master/strings/lower.py)
   * [Manacher](https://github.com/TheAlgorithms/Python/blob/master/strings/manacher.py)
   * [Min Cost String Conversion](https://github.com/TheAlgorithms/Python/blob/master/strings/min_cost_string_conversion.py)
   * [Naive String Search](https://github.com/TheAlgorithms/Python/blob/master/strings/naive_string_search.py)
+  * [Prefix Function](https://github.com/TheAlgorithms/Python/blob/master/strings/prefix_function.py)
   * [Rabin Karp](https://github.com/TheAlgorithms/Python/blob/master/strings/rabin_karp.py)
   * [Remove Duplicate](https://github.com/TheAlgorithms/Python/blob/master/strings/remove_duplicate.py)
   * [Reverse Words](https://github.com/TheAlgorithms/Python/blob/master/strings/reverse_words.py)
   * [Split](https://github.com/TheAlgorithms/Python/blob/master/strings/split.py)
   * [Upper](https://github.com/TheAlgorithms/Python/blob/master/strings/upper.py)
   * [Word Occurrence](https://github.com/TheAlgorithms/Python/blob/master/strings/word_occurrence.py)
+  * [Z Function](https://github.com/TheAlgorithms/Python/blob/master/strings/z_function.py)
 
 ## Traversals
   * [Binary Tree Traversals](https://github.com/TheAlgorithms/Python/blob/master/traversals/binary_tree_traversals.py)
@@ -640,6 +679,7 @@
 ## Web Programming
   * [Crawl Google Results](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_results.py)
   * [Current Stock Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_stock_price.py)
+  * [Current Weather](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_weather.py)
   * [Emails From Url](https://github.com/TheAlgorithms/Python/blob/master/web_programming/emails_from_url.py)
   * [Fetch Bbc News](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_github_info.py)
